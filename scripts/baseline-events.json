@@ -39,7 +39,7 @@
       "sector": "Toys",
       "desc": "Transform your product lines with vibrant creativity as The Toy Fair, the UK\u2019s largest dedicated toy, game and hobby trade show returns.\nWhether you're an established retailer, an industry novice or an inspired toy manufacturer, discover brand-new, sought-after toys, games, and hobby products from over 250 companies hitting the shelves next year.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.toyfair.co.uk/",
       "scores": {
         "buyer": 18,
         "decision": 12,
@@ -69,7 +69,7 @@
       "sector": "Home, Gift, Apparel, Jewellery, Toys",
       "desc": "Spring Fair is the UK's most diverse and exciting marketplace for Home, Gift, Fashion and Everyday products.\u00a0Explore thousands of products from the most innovative suppliers in the industry.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.springfair.com/",
       "scores": {
         "buyer": 29,
         "decision": 21,
@@ -150,7 +150,7 @@
       "sector": "Furniture",
       "desc": "AIS Members only on 29 April, open to general trade 30 April\nBeds, sofa beds, and bedroom furniture, alongside leading brands within upholstery, living room, dining room, and garden sectors. INDX Beds is curated by buyers from Associated Independent Stores (AIS), the UK\u2019s leading buying, services, and events group for fashion, home, and leisure.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://indxshows.co.uk/shows/beds",
       "scores": {
         "buyer": 20,
         "decision": 13,
@@ -279,39 +279,6 @@
         "Museums & Heritage sector sits outside the five-sector portfolio entirely",
         "Kept only for reference \u2014 very unlikely to be worth active pursuit"
       ]
-    },
-    {
-      "id": "spa-peeps-virgin-cruise",
-      "series": "spa-peeps-virgin-cruise",
-      "name": "Spa Peeps",
-      "aliases": [
-        "Spa Peeps"
-      ],
-      "dateStart": null,
-      "dateEnd": null,
-      "location": "On Virgin Cruise",
-      "category": "Event",
-      "sector": "Wellness, beauty, health",
-      "desc": "Spa industry education & networking. Key Spa directors attend.",
-      "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": "https://www.thespapeeps.com/",
-      "dateTBC": true,
-      "scores": {
-        "buyer": 10,
-        "decision": 16,
-        "network": 17,
-        "intel": 9,
-        "ei": 8
-      },
-      "classification": "niche",
-      "confidence": "Low",
-      "primaryBenefit": "Networking",
-      "reasons": [
-        "Dates genuinely TBC per the source itself \u2014 do not treat as scheduled until confirmed",
-        "Same curated small-group Spa Peeps format as other editions already scored higher",
-        "Excluded from live calendar: source date is genuinely TBC (null), which can break date-based rendering. Re-include once a real date is confirmed."
-      ],
-      "status": "unscheduled"
     },
     {
       "id": "regional-growth-summit",
@@ -575,11 +542,13 @@
       ]
     },
     {
-      "id": "spa-peeps-elevate-spa",
-      "series": "spa-peeps-elevate-spa",
+      "id": "spa-peeps-elevate-spa-mexico",
+      "series": "spa-peeps-elevate-spa-mexico",
       "name": "Spa Peeps, Elevate Spa",
       "aliases": [
-        "Spa Peeps, Elevate Spa"
+        "Spa Peeps, Elevate Spa",
+        "Spa Peeps Riviera Maya",
+        "Spa Peeps Kanai Mexico"
       ],
       "dateStart": "2026-08-23",
       "dateEnd": "2026-08-26",
@@ -678,7 +647,7 @@
       "sector": "Home, Gift, Apparel, Jewellery, Toys",
       "desc": "Autumn Fair showcases a curated selection of the newest and best-selling products- guaranteed to elevate your store front. From greeting cards and kids toys to footwear and furniture, explore products from 10\u00a0sectors across Home, Gift and Fashion.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.autumnfair.com/",
       "scores": {
         "buyer": 28,
         "decision": 20,
@@ -705,7 +674,7 @@
       "sector": "Kitchen & dining, organising & storage, small electricals, home textiles, soft furnishing, and home accessories",
       "desc": "Curated by buyers from Associated Independent Stores (AIS), the UK\u2019s leading buying group for fashion, home, and leisure.  2 day show for homewares stockists, attracting department stores, garden centres, farm shops, gift, and lifestyle retailers - you do not need to be a Member of AIS to attend.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://indxshows.co.uk/shows/home-show",
       "scores": {
         "buyer": 22,
         "decision": 14,
@@ -763,7 +732,7 @@
       "sector": "Fashion accessories, luxury products, health, beauty,wellness, food, consumer goods",
       "desc": "London Packaging Week, home to four co-located events combines to create a dynamic and inspirational event that drives packaging innovation, business and connections at the heart of the UK\u2019s luxury, cosmetics, premium drinks and consumer products markets. Join hundreds of industry leaders, including suppliers, designers, packaging developers, marketers, founders, and buyers, as they gather to fuel",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.londonpackagingweek.com/",
       "scores": {
         "buyer": 18,
         "decision": 20,
@@ -854,7 +823,7 @@
       "sector": "Beds, Furniture",
       "desc": "Must be member of NBF to exhibit https://www.bedfed.org.uk/\n\nThe Bed Show, organised by the National Bed Federation (NBF), is firmly established in the trade calendar as the UK\u2019s biggest bed exhibition.The Bed Show is the only place to see so many UK and Irish bed manufacturers and component suppliers under one roof, with exhibitors ranging from the biggest brands on the market to small niche play",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.bedshow.co.uk/",
       "scores": {
         "buyer": 16,
         "decision": 14,
@@ -885,7 +854,7 @@
       "sector": "Pet",
       "desc": "PATS \u2013 the UK\u2019s No.1 Pet & Aquatics Industry Exhibition. Visiting PATS offers the entire pet trade great buying and networking opportunities.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.patshow.co.uk/",
       "scores": {
         "buyer": 22,
         "decision": 13,
@@ -943,7 +912,7 @@
       "sector": "Print",
       "desc": "The Print Show is now established as the most important and best-attended print industry event in the UK, and is still the only exhibition entirely dedicated to the UK print sector. The Print Show is the primary meeting point for the market, offering visitors the opportunity to see the latest technological developments, meet and network with peers, and access advice from some of the leading expert",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.theprintshow.co.uk/",
       "scores": {
         "buyer": 8,
         "decision": 8,
@@ -956,35 +925,6 @@
       "primaryBenefit": "\u2014",
       "reasons": [
         "Score ported directly from the verified Opportunity Radar calendar (same event, cross-checked earlier)"
-      ]
-    },
-    {
-      "id": "spa-peeps-elevate-spa",
-      "series": "spa-peeps-elevate-spa",
-      "name": "Spa Peeps, Elevate Spa",
-      "aliases": [
-        "Spa Peeps, Elevate Spa"
-      ],
-      "dateStart": "2026-09-30",
-      "dateEnd": "2026-10-01",
-      "location": "Dubai, UAE",
-      "category": "Event",
-      "sector": "Spa",
-      "desc": "Set against the backdrop of Dubai\u2019s iconic skyline and rich cultural heritage, this experience blends elevated networking, curated business opportunities, and immersive leisure moments. In this intimate, refined environment, attendees will engage in meaningful conversations, spark fresh ideas, and forge lasting partnerships. Designed to encourage authentic relationship-building in one of the world",
-      "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": "https://www.thespapeeps.com/",
-      "scores": {
-        "buyer": 16,
-        "decision": 20,
-        "network": 18,
-        "intel": 9,
-        "ei": 8
-      },
-      "classification": "strategic",
-      "confidence": "Medium",
-      "primaryBenefit": "Decision Maker Access",
-      "reasons": [
-        "Score ported directly from the verified Opportunity Radar calendar (Dubai edition)"
       ]
     },
     {
@@ -1028,7 +968,7 @@
       "sector": "Health, Beauty, Wellness",
       "desc": "The UK's leading event for the salon, spa and nail professionals. Zones include the International Zones, looking to source global brands, Skincare & Spa Zone, Advanced Treatments Zone, and the Nails, Waxing & Essentials Zone.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://professionalbeauty.co.uk/",
       "scores": {
         "buyer": 24,
         "decision": 17,
@@ -1055,7 +995,7 @@
       "sector": "Brand Licensing",
       "desc": "Brand Licensing Europe (BLE) is the only pan-European event dedicated to licensing and brand extension, bringing together retailers, licensees and manufacturers for three days of deal-making, networking and trend spotting. BLE is for businesses looking to discover and secure deals with the most sought-after brands, characters and images available for licensing.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.brandlicensing.eu/",
       "scores": {
         "buyer": 20,
         "decision": 19,
@@ -1113,7 +1053,7 @@
       "sector": "Furniture / Home",
       "desc": "The Autumn Furniture Show a two day trade event showcasing an impressive UK and Global portfolio.Every sector of the furniture buying industry attends this show, from independent retailers right through to contract buyers, we are open to all within this trade. Previous exhibitors include HTL, IMG Comfort, Purecare, Papaya Trading, New Trend Concepts, Sealy etc.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.theautumnfurnitureshow.co.uk/",
       "scores": {
         "buyer": 18,
         "decision": 13,
@@ -1142,7 +1082,7 @@
       "sector": "Pharmacy",
       "desc": "The Pharmacy Show is the UK\u2019s largest and leading event for community and primary care pharmacy professionals. The Pharmacy Show is solely designed to bring you practical content, strategic connections, and friendly support you need to be the best pharmacy professional. 150 educational sessions presented by 200 expert speakers  and meet with over 300 exhibitors. Opportunity to test new equipment, ",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.thepharmacyshow.co.uk/",
       "scores": {
         "buyer": 16,
         "decision": 11,
@@ -1229,7 +1169,7 @@
       "sector": "Health,Beauty, Wellness product formulation",
       "desc": "SCS Formulate is dedicated to raw materials, ingredients and formulation services used in creating personal care and cosmetic products.",
       "source": "Original Trade Events tracker (2026_UK_Consumer_Retail_Handover.xlsx) \u2014 permanent baseline, do not drop without explicit status change",
-      "link": null,
+      "link": "https://www.scsformulate.co.uk/",
       "scores": {
         "buyer": 12,
         "decision": 14,
@@ -1322,7 +1262,8 @@
       "primaryBenefit": "Networking",
       "reasons": [
         "Promoted from the manually-researched calendar into the permanent baseline \u2014 was previously only findable via live monthly search, which is a single point of failure for a Must Attend/high-value event"
-      ]
+      ],
+      "link": "https://awards.drapersonline.com/"
     },
     {
       "id": "lfw-sept",
@@ -1454,7 +1395,8 @@
       "primaryBenefit": "Decision Maker Access",
       "reasons": [
         "Promoted from the manually-researched calendar into the permanent baseline"
-      ]
+      ],
+      "link": "https://www.thespapeeps.com/"
     },
     {
       "id": "cew-meetup",
@@ -1480,7 +1422,8 @@
       "primaryBenefit": "Networking",
       "reasons": [
         "Promoted from the manually-researched calendar into the permanent baseline"
-      ]
+      ],
+      "link": "https://cewuk.co.uk/"
     },
     {
       "id": "beauty-bulb-live",
@@ -1560,7 +1503,8 @@
       "primaryBenefit": "Buyer Access",
       "reasons": [
         "Promoted from the manually-researched calendar into the permanent baseline"
-      ]
+      ],
+      "link": "https://www.harrogatefair.com/"
     },
     {
       "id": "scotlands-trade-fair-spring",
@@ -1639,7 +1583,8 @@
       "primaryBenefit": "Brand Discovery",
       "reasons": [
         "Promoted from the manually-researched calendar into the permanent baseline"
-      ]
+      ],
+      "link": "https://longevityshow.com/"
     },
     {
       "id": "lfw-feb",
@@ -1718,7 +1663,8 @@
       "primaryBenefit": "Brand Discovery",
       "reasons": [
         "Promoted from the manually-researched calendar into the permanent baseline"
-      ]
+      ],
+      "link": "https://cewuk.co.uk/"
     },
     {
       "id": "clerkenwell-design-week",
@@ -1824,7 +1770,8 @@
       "primaryBenefit": "Buyer Access",
       "reasons": [
         "Promoted from the manually-researched calendar into the permanent baseline \u2014 was previously only findable via live monthly search, which is a single point of failure for a Must Attend/high-value event"
-      ]
+      ],
+      "link": "https://www.homeandgift.co.uk/"
     },
     {
       "id": "drapers-footwear-awards",
@@ -1852,6 +1799,69 @@
         "Promoted from the manually-researched calendar into the permanent baseline"
       ],
       "link": "https://footwearawards.drapersonline.com/"
+    },
+    {
+      "id": "focus-on-design",
+      "series": "focus-on-design",
+      "name": "Focus on Design",
+      "aliases": [
+        "Focus/26 on Design"
+      ],
+      "dateStart": "2026-09-14",
+      "dateEnd": "2026-09-18",
+      "location": "Design Centre, Chelsea Harbour",
+      "category": "Trade Show",
+      "sector": "Homeware, Interior Design",
+      "desc": "Design Centre Chelsea Harbour's flagship autumn show \u2014 135+ showrooms and 30+ pop-up brands showing new-season launches, alongside a flagship talks series (Conversations in Design). Runs as part of the broader London Design Week programme.",
+      "source": "Web search \u2014 dcch.co.uk (verified directly, found via a Gemini cross-check Claude had missed)",
+      "scores": {
+        "buyer": 18,
+        "decision": 14,
+        "network": 14,
+        "intel": 13,
+        "ei": 8
+      },
+      "classification": "strategic",
+      "confidence": "High",
+      "primaryBenefit": "Brand Discovery",
+      "reasons": [
+        "Design Centre Chelsea Harbour was already on the monitored venues checklist, but this specific show had never been found there",
+        "New-season brand launches and a flagship talks series give real market-intelligence and brand-discovery value",
+        "Confirmed directly on the venue\u2019s own site \u2014 dates, scale and programme all corroborated"
+      ],
+      "link": "https://www.dcch.co.uk/focus/"
+    },
+    {
+      "id": "health-optimisation-summit",
+      "series": "health-optimisation-summit",
+      "name": "Health Optimisation Summit",
+      "aliases": [
+        "HO Summit",
+        "HOSummit"
+      ],
+      "dateStart": "2026-09-11",
+      "dateEnd": "2026-09-13",
+      "location": "Business Design Centre, London",
+      "category": "Conference",
+      "sector": "Health & Beauty (Wellness, Longevity, Biohacking)",
+      "desc": "Europe's largest health, wellness and longevity summit \u2014 125+ exhibiting brands, 4,000-5,000 attendees, 35+ speakers. New for 2026: a dedicated Business Networking Day (11 Sept) specifically for founders, investors, clinicians and operators, ahead of the two public days.",
+      "source": "Web search \u2014 uk.healthoptimisation.com / businessdesigncentre.co.uk (verified directly)",
+      "scores": {
+        "buyer": 16,
+        "decision": 20,
+        "network": 18,
+        "intel": 14,
+        "ei": 10
+      },
+      "classification": "anchor",
+      "confidence": "High",
+      "primaryBenefit": "Decision Maker Access",
+      "reasons": [
+        "Business Design Centre was already a monitored venue, but no Health & Beauty search bucket covered it \u2014 a structural gap now fixed in generate.js",
+        "New 2026 Business Networking Day is a curated founder/investor/operator day, not just a consumer expo floor",
+        "Core Wellness portfolio fit, and already part of your own active outreach work per your event-exhibiting notes"
+      ],
+      "link": "https://uk.healthoptimisation.com/"
     }
   ],
   "known_aliases": {
@@ -1870,6 +1880,13 @@
       "Top Drawer A/W26",
       "Top Drawer Autumn/Winter 2026",
       "Top Drawer Autumn/Winter 2026 (Beauty & Wellbeing)"
+    ],
+    "spa-peeps-dubai": [
+      "Spa Peeps, Elevate Spa"
+    ],
+    "spa-peeps-elevate-spa-mexico": [
+      "Spa Peeps On Virgin Cruise",
+      "Spa Peeps"
     ]
   },
   "discontinued_or_unverified": [
@@ -1887,5 +1904,8 @@
     "Dogfest",
     "PIF Pet Index Trade Show",
     "All About Dogs Show"
+  ],
+  "excluded_names": [
+    "Smart Works Truman Brewery Fashion Sale"
   ]
 }

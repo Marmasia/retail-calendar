@@ -145,9 +145,21 @@ function mergeIntoBaseline(baseline, dedupedScrapedEvents) {
   return finalList;
 }
 
+// ---------- Hard exclusion list ----------
+// Events confirmed NOT to belong on this calendar, regardless of what any given
+// month's search decides. This is a hard filter, not a prompt instruction — it
+// works even if the LLM misjudges the qualification gate again in a future run.
+// Add to this list (in baseline-events.json's "excluded_names") whenever a
+// confirmed-real-but-wrong event needs a permanent guarantee, not just a hint.
+function isExcluded(event, excludedNames) {
+  return excludedNames.some(bad => similarity(event.name, bad) >= SIMILARITY_THRESHOLD);
+}
+
 // ---------- Public entry point ----------
 function buildFinalEventList(baseline, scrapedEvents) {
-  const deduped = dedupeWithinScrape(scrapedEvents);
+  const excludedNames = baseline.excluded_names || [];
+  const filtered = scrapedEvents.filter(e => !isExcluded(e, excludedNames));
+  const deduped = dedupeWithinScrape(filtered);
   return mergeIntoBaseline(baseline, deduped);
 }
 
